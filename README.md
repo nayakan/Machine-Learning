@@ -1,3 +1,3 @@
 # Machine-Learning
-Machine Learning assignments
+Machine Learning assignments:
 Course by Stanford University, Professor Andrew NG.
