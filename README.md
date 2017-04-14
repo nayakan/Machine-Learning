@@ -7,4 +7,4 @@ Linear Regression: https://github.com/nayakan/Machine-Learning/blob/master/Linea
 
 Logistic Regression: https://github.com/nayakan/Machine-Learning/blob/master/Logistic%20Regression/ex2.pdf
 
-One-vs-All Logistic Regression and Neural Networks: [ex3.pdf](Machine-Learning/Logistic_Regression/ ex3.pdf)
+One-vs-All Logistic Regression and Neural Networks:[this ex3.pdf](Machine-Learning/Logistic_Regression/ex3.pdf)
