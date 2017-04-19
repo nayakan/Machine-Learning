@@ -10,3 +10,5 @@ Logistic Regression: https://github.com/nayakan/Machine-Learning/blob/master/Log
 One-vs-All Logistic Regression and Neural Networks: https://github.com/nayakan/Machine-Learning/blob/master/One-vs-All%20Logistic%20Regression%20and%20Neural%20Networks/ex3.pdf
 
 Regularized Linear Regression: https://github.com/nayakan/Machine-Learning/blob/master/Regularized-LinearRegression/ex5.pdf
+
+Anomaly Detection & Recommender systems: https://github.com/nayakan/Machine-Learning/upload/master/Anomaly%20Detection%20and%20Recommender%20Systems
